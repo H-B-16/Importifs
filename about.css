@@ -1,0 +1,113 @@
+.frame-child6,
+.home1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 219px;
+  height: 80px;
+}
+.home1 {
+  top: 3px;
+  left: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 178px;
+  height: 74px;
+}
+.vector-parent6,
+.vector-parent7 {
+  position: absolute;
+  top: 76px;
+  left: 23px;
+  width: 219px;
+  height: 80px;
+}
+.vector-parent7 {
+  left: 273px;
+}
+.importifs-frame,
+.importifs2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.importifs2 {
+  position: relative;
+  width: 389.32px;
+  height: 74px;
+  flex-shrink: 0;
+}
+.importifs-frame {
+  position: absolute;
+  top: 70px;
+  left: 524px;
+  background-color: var(--color-black);
+  width: 389px;
+  height: 92px;
+  flex-direction: column;
+  color: var(--color-white);
+}
+.frame-child8,
+.welcome-back {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 479px;
+  height: 80px;
+}
+.welcome-back {
+  top: 3px;
+  left: 43.74px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 389.32px;
+  height: 74px;
+}
+.vector-parent8 {
+  position: absolute;
+  top: 76px;
+  left: 933px;
+  width: 479px;
+  height: 80px;
+}
+.importifs-is-a {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1218px;
+  height: 380px;
+  flex-shrink: 0;
+}
+.importifs-is-a-website-that-al-wrapper {
+  position: absolute;
+  top: 348px;
+  left: 80px;
+  background-color: var(--color-gray);
+  width: 1280px;
+  height: 451px;
+  display: flex;
+  flex-direction: column;
+  padding: 35px 0;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-end;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+}
+.about2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+a {
+  color: black;
+}

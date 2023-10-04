@@ -1,0 +1,44 @@
+<?php include "checklogin.php"; ?>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./homepage.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="homepage">
+      <div class="vector-parent2">
+        <a href="about.php">
+        <img class="frame-child2" alt="" src="./public/rectangle-1.svg" />
+        <b class="about1">About</b>
+        </a>
+      </div>
+      <div class="vector-parent3">
+        <a href="your-account.html">
+        <img class="frame-child3" alt="" src="./public/rectangle-12.svg" />
+        <b class="your-account">Your Account</b>
+        </a>
+      </div>
+      <div class="vector-parent4">
+        <img class="frame-child4" alt="" src="./public/rectangle-11.svg" />
+        <b class="contacts">Contacts</b>
+      </div>
+      <div class="vector-parent5">
+        <img class="frame-child4" alt="" src="./public/rectangle-11.svg" />
+        <b class="contacts">Reminders</b>
+      </div>
+      <div class="importifs-container">
+        <b class="importifs1">IMPORTIFS</b>
+      </div>
+      <a href="homepage.html">
+      <img class="home-icon-1" alt="" src="./public/home-icon-1@2x.png"/>
+      </a>
+    </div>
+  </body>
+</html>
